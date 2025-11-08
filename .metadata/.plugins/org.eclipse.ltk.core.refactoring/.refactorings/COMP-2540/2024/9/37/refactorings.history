@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;COMP-2540/L3Q8&apos; to &apos;L3Q8.java&apos;" description="Rename resource &apos;L3Q8&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="L3Q8" name="L3Q8.java" stamp="1725819916912" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;COMP-2540&apos;&#x0A;- Original project: &apos;COMP-2540&apos;&#x0A;- Original element: &apos;L3Q8.java&apos;" description="Delete element" element1="L3Q8.java" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1725819981747" subPackages="false" version="1.0"/>
+</session>
